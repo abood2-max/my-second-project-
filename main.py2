@@ -1,0 +1,18 @@
+#print ('######################################################################################')   
+x=10/2 #  نوع على int 
+print (type(x))
+x=10.5 # نوع على float 
+print (type(x))
+x='hello'#  نوع على str
+print (type(x))
+r= ["ggy", "ggg", "jjj" ]#نوع على list
+print (type(r))
+x= {"key": "value"} # نوع على dict
+print(type(x))
+x=True # نوع على bool
+print(type(x))
+x="hello" # نوع على  binary
+print(type(x))
+x=30 
+d=50.668
+print (x-d)
